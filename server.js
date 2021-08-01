@@ -39,7 +39,7 @@ mongoose.connect(
 );
 
 app.get("/", (req, res, next) => {
-  res.json({ msg: "This is Asim Imam and working" });
+  res.json({ msg: "This is Asim Imam and working yes" });
 });
 
 const port = process.env.PORT || 5000;
