@@ -12,6 +12,11 @@ README.md
 # production
 /build
 
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
+
 # misc
 .DS_Store
 .env.local
