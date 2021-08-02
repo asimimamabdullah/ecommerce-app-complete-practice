@@ -43,3 +43,15 @@ button {
 /* ----------------- Products ----------------- */
 
 @import url("./Components/mainpages/products/Products.css");
+
+/* --------------------- Detail Product --------------- */
+
+@import url("./Components/mainpages/detailProduct/detailProduct.css");
+
+/* ---------------- Login/Register -------------------- */
+
+@import url("./Components/mainpages/auth/Login.css");
+
+/* --------------- Cart ---------------- */
+
+@import url("./Components/mainpages/cart/Cart.css");
